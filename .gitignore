@@ -1,4 +1,7 @@
 target/
+.build/
+.engineer/discussions.log
+features/**/.build/
 .idea/
 *.iml
 .classpath
